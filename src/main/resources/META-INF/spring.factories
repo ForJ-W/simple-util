@@ -1,0 +1,6 @@
+ org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+ com.simple.util.spring.aop.LogAdvice,\
+ com.simple.util.spring.SpringAopUtil,\
+ com.simple.util.spring.handler.GenericExceptionHandler,\
+ com.simple.util.spring.aop.LockAdvice,\
+ com.simple.util.spring.config.AutoConfiguration
